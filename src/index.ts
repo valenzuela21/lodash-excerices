@@ -46,5 +46,25 @@
 // import './assets/js/collection/_.sortBy.ts';
 
 /*======= Function ========*/
-
-
+// import './assets/js/function/_.after.ts';
+// import './assets/js/function/_.ary.ts';
+// import './assets/js/function/_.before.ts';
+// import './assets/js/function/_.bind.ts';
+// import './assets/js/function/_.curry.ts';
+// import './assets/js/function/_.curry.ts';
+// import './assets/js/function/_.debounce.ts';
+// import './assets/js/function/_.defer.ts';
+// import './assets/js/function/_.delay.ts';
+// import './assets/js/function/_.flip.ts';
+// import './assets/js/function/_.memoize.ts';
+// import './assets/js/function/_.negate.ts';
+// import './assets/js/function/_.once.ts';
+// import './assets/js/function/_.overArgs.ts';
+// import './assets/js/function/_.partial.ts';
+// import './assets/js/function/_.partialRight.ts';
+// import './assets/js/function/_.rearg.ts';
+// import './assets/js/function/_.rest.ts';
+// import './assets/js/function/_.spread.ts';
+// import './assets/js/function/_.throttle.ts';
+// import './assets/js/function/_.unary.ts';
+import './assets/js/function/_.wrap.ts';

@@ -29,7 +29,7 @@ module.exports = {
         new LiveReloadPlugin()
     ],
     resolve: {
-        extensions: ['.tsx', 'ts', '.js']
+        extensions: ['.tsx', '.ts', '.js', '.css']
     },
     output: {
         path: path.resolve(__dirname, 'dist'),
